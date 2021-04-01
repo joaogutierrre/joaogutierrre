@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<a href="https://sourcerer.io/joaogutierrre"><img src="https://sourcerer.io/icons/logo-sharing.svg"height="48px" alt="Sourcerer"></a>
+<a href="https://sourcerer.io/joaogutierrre"><img src="https://img.shields.io/badge/PHP-56%20commits-orange.svg" alt=""></a>
+<codersrank-skills-chart
+  username="joaogutierrre"
+  labels
+  legend
+  tooltip
+></codersrank-skills-chart>
