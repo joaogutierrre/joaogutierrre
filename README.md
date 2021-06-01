@@ -2,8 +2,8 @@
 
 
 ### Hi there! My name is João and I'm a trainee developer! 👋 
+<img height="180em" src="https://user-images.githubusercontent.com/14613603/120276849-9b7e8400-c289-11eb-8e2a-ae47e835f711.png">
 
-<br>
 <div style="display: inline_block">
   <img align="center" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Joao-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -14,7 +14,7 @@
 </div>
 <br>
 <div style=" display: inline_block">
-  <img height="180em" src="https://user-images.githubusercontent.com/14613603/120276849-9b7e8400-c289-11eb-8e2a-ae47e835f711.png">
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaogutierrre&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaogutierrre&layout=compact&langs_count=16&theme=dracula"/>
 </div>
