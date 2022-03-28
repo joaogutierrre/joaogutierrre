@@ -1,7 +1,7 @@
 
 
 
-### Hi there! My name is João and I'm a trainee developer! 👋 
+### Hi there! My name is João and I'm a junior developer! 👋 
 <img height="180em" src="https://user-images.githubusercontent.com/14613603/120276849-9b7e8400-c289-11eb-8e2a-ae47e835f711.png">
 
 <div style="display: inline_block">
