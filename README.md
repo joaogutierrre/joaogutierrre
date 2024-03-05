@@ -16,11 +16,11 @@
     <img align="center" alt="Joao-Postgres" height="60" width="80"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
     <img align="center" alt="Joao-Mvn" height="60" width="80"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original-wordmark.svg" />
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" />
     <img align="center" alt="Joao-MySQL" height="60" width="80"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
     <img align="center" alt="Joao-Elastic" height="60" width="80"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original-wordmark.svg" />
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" />
     <img align="center" alt="Joao-Redis" height="60" width="80"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original-wordmark.svg" />
     <img align="center" alt="Joao-Liquibase" height="60" width="80"
@@ -35,9 +35,9 @@
     <img align="center" alt="Joao-Amazon" height="60" width="80"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
     <img align="center" alt="Joao-RabbitMQ" height="60" width="80"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original-wordmark.svg" />
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" />
     <img align="center" alt="Joao-Neovim" height="60" width="80"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original-wordmark.svg" />
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" />
     <img align="center" alt="Joao-IntelliJ" height="60" width="80"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
     <img align="center" alt="Joao-Angular" height="60" width="80"
