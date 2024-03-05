@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="background-color: white;">
   <h1> Hi there! My name is João and I'm a Software Engineer! </h1>
   <br>
   <div>
@@ -10,7 +10,7 @@
 
   <div style="display: inline_block">
     <img align="center" alt="Joao-Java" height="60" width="80"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
     <img align="center" alt="Joao-Spring" height="60" width="80"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
     <img align="center" alt="Joao-Postgres" height="60" width="80"
@@ -28,6 +28,9 @@
     <img align="center" alt="Joao-Oracle" height="60" width="80"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
   </div>
+
+  <br>
+
   <div style="display: inline_block">
     <img align="center" alt="Joao-Amazon" height="60" width="80"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
@@ -37,16 +40,14 @@
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original-wordmark.svg" />
     <img align="center" alt="Joao-IntelliJ" height="60" width="80"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
-    <img align="center" alt="Angular" height="60" width="80"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original-wordmark.svg" />
+    <img align="center" alt="Joao-Angular" height="60" width="80"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
     <img align="center" alt="Joao-Ts" height="60" width="80"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
     <img align="center" alt="Joao-HTML" height="60" width="80"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Joao-CSS" height="60" width="80"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Joao-Java" height="60" width="80"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   </div>
   <br>
   <div style=" display: inline_block">
