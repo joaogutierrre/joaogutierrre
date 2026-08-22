@@ -60,8 +60,11 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaogutierrre&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaogutierrre&layout=compact&langs_count=12&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaogutierrre&theme=tokyonight" alt="Profile details" />
   <br><br>
-  <img src="https://streak-stats.demolab.com?user=joaogutierrre&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaogutierrre&theme=tokyonight" alt="GitHub stats" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joaogutierrre&theme=tokyonight" alt="Repos per language" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joaogutierrre&theme=tokyonight" alt="Most committed language" />
+  <br><br>
+  <img src="https://streak-stats.demolab.com/?user=joaogutierrre&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </div>
