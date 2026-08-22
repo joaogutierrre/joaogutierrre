@@ -65,6 +65,5 @@
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaogutierrre&theme=tokyonight" alt="GitHub stats" />
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joaogutierrre&theme=tokyonight" alt="Repos per language" />
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joaogutierrre&theme=tokyonight" alt="Most committed language" />
-  <br><br>
-  <img src="https://streak-stats.demolab.com/?user=joaogutierrre&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joaogutierrre&theme=tokyonight&utcOffset=-3" alt="Productive time" />
 </div>
