@@ -25,34 +25,59 @@
 ### 💻 Languages & frameworks
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,go,ts,nextjs,react,angular,tailwind,bun,maven,html,css&perline=6" alt="Java, Spring, Go, TypeScript, Next.js, React, Angular, Tailwind, Bun, Maven, HTML, CSS" />
+  <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" title="Java" />
+  <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" title="Spring" />
+  <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" title="Go" />
+  <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" title="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" title="Next.js" />
+  <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" title="React" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="Angular" title="Angular" />
+  <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" title="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=bun" width="48" height="48" alt="Bun" title="Bun" />
+  <img src="https://skillicons.dev/icons?i=maven" width="48" height="48" alt="Maven" title="Maven" />
+  <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" title="HTML5" />
+  <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" title="CSS3" />
 </div>
 
 ### 🗄️ Data, search & messaging
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,elasticsearch,rabbitmq,supabase&perline=6" alt="PostgreSQL, MySQL, Redis, Elasticsearch, RabbitMQ, Supabase" />
+  <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" title="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" title="MySQL" />
+  <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" title="Redis" />
+  <img src="https://skillicons.dev/icons?i=elasticsearch" width="48" height="48" alt="Elasticsearch" title="Elasticsearch" />
+  <img src="https://skillicons.dev/icons?i=rabbitmq" width="48" height="48" alt="RabbitMQ" title="RabbitMQ" />
+  <img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" title="Supabase" />
   <br><br>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logoColor=white" alt="Oracle" />
-  <img src="https://img.shields.io/badge/Liquibase-2962FF?style=for-the-badge&logo=liquibase&logoColor=white" alt="Liquibase" />
-  <img src="https://img.shields.io/badge/NATS-27AAE1?style=for-the-badge&logo=natsdotio&logoColor=white" alt="NATS" />
-  <img src="https://img.shields.io/badge/Meilisearch-FF5CAA?style=for-the-badge&logo=meilisearch&logoColor=white" alt="Meilisearch" />
-  <img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black" alt="Drizzle ORM" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logoColor=white" alt="Oracle" title="Oracle Database" />
+  <img src="https://img.shields.io/badge/Liquibase-2962FF?style=for-the-badge&logo=liquibase&logoColor=white" alt="Liquibase" title="Liquibase" />
+  <img src="https://img.shields.io/badge/NATS-27AAE1?style=for-the-badge&logo=natsdotio&logoColor=white" alt="NATS" title="NATS" />
+  <img src="https://img.shields.io/badge/Meilisearch-FF5CAA?style=for-the-badge&logo=meilisearch&logoColor=white" alt="Meilisearch" title="Meilisearch" />
+  <img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black" alt="Drizzle ORM" title="Drizzle ORM" />
 </div>
 
 ### ☁️ Cloud, infra & observability
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,grafana,prometheus,githubactions&perline=6" alt="AWS, GCP, Docker, Grafana, Prometheus, GitHub Actions" />
+  <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" title="AWS" />
+  <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="Google Cloud" title="Google Cloud" />
+  <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" title="Docker" />
+  <img src="https://skillicons.dev/icons?i=grafana" width="48" height="48" alt="Grafana" title="Grafana" />
+  <img src="https://skillicons.dev/icons?i=prometheus" width="48" height="48" alt="Prometheus" title="Prometheus" />
+  <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" title="GitHub Actions" />
   <br><br>
-  <img src="https://img.shields.io/badge/OpenTelemetry-F5A800?style=for-the-badge&logo=opentelemetry&logoColor=black" alt="OpenTelemetry" />
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logoColor=white" alt="Playwright" />
+  <img src="https://img.shields.io/badge/OpenTelemetry-F5A800?style=for-the-badge&logo=opentelemetry&logoColor=black" alt="OpenTelemetry" title="OpenTelemetry" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logoColor=white" alt="Playwright" title="Playwright" />
 </div>
 
 ### 🧰 Daily drivers
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=neovim,idea,git,linux&perline=4" alt="Neovim, IntelliJ IDEA, Git, Linux" />
+  <img src="https://skillicons.dev/icons?i=neovim" width="48" height="48" alt="Neovim" title="Neovim" />
+  <img src="https://skillicons.dev/icons?i=idea" width="48" height="48" alt="IntelliJ IDEA" title="IntelliJ IDEA" />
+  <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" title="Git" />
+  <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" title="Linux" />
 </div>
 
 ---
@@ -60,10 +85,10 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaogutierrre&theme=tokyonight" alt="Profile details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaogutierrre&theme=tokyonight" alt="Profile details" title="Profile details" />
   <br><br>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaogutierrre&theme=tokyonight" alt="GitHub stats" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joaogutierrre&theme=tokyonight" alt="Repos per language" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joaogutierrre&theme=tokyonight" alt="Most committed language" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joaogutierrre&theme=tokyonight&utcOffset=-3" alt="Productive time" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaogutierrre&theme=tokyonight" alt="GitHub stats" title="GitHub stats" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joaogutierrre&theme=tokyonight" alt="Repos per language" title="Top languages by repo" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joaogutierrre&theme=tokyonight" alt="Most committed language" title="Top languages by commit" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joaogutierrre&theme=tokyonight&utcOffset=-3" alt="Productive time" title="Productive time (UTC-3)" />
 </div>
